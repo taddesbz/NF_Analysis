@@ -1,2 +1,2 @@
-# NF_Analysis
+# NF Analysis
 Textual analysis of NF's songs.
