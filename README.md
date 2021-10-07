@@ -1,2 +1,2 @@
 # NF Analysis
-Textual analysis of NF's songs.
+Textual analysis of NF's corpus.
